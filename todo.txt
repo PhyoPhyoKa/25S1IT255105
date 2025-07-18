@@ -2,7 +2,7 @@ My TO-DO List
 1. Write an interesting article 
 1a. adding a new line in main 
 1b. added a second new line
-1c. added a third line in origin
+1c. added a new third line in origin
 2. Code
 3. Study lessons
 4. Attend class on time 
